@@ -9,7 +9,7 @@ https://spacestrawberriesstudio.itch.io/keep-them-away
 
 # Editor.md
 
-![](![ssslogo2](https://user-images.githubusercontent.com/57503158/129483641-904c0f61-43a4-483f-810a-eafce2dac294.png)
+(![ssslogo2](https://user-images.githubusercontent.com/57503158/129483641-904c0f61-43a4-483f-810a-eafce2dac294.png)|width = 100)
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) 
 ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg)
