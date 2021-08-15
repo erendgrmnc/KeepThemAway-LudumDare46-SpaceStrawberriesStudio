@@ -1,4 +1,4 @@
-# Keep Them Away-LudumDare46-SpaceStrawberriesStudio
+# Keep Them Away
  Game for LudumDare GameJam Event
  <br>
 <strong>Ludum Dare Page</strong>
