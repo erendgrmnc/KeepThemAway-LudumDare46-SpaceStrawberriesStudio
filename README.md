@@ -1,4 +1,4 @@
-# KeepItAlive-LudumDare46-SpaceStrawberriesStudio
+# Keep Them Away-LudumDare46-SpaceStrawberriesStudio
  Game for LudumDare GameJam Event
  <br>
 <strong>KeepThemAwaySourceCode</strong>
