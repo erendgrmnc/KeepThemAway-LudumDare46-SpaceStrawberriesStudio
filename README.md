@@ -7,7 +7,7 @@ https://drive.google.com/file/d/1drONPyLce98TkPzgyb4LjCFT_ptUCbP2/view?usp=shari
 <strong>KeepThemAwayWindows</strong>
 https://spacestrawberriesstudio.itch.io/keep-them-away
 
-# Editor.md
+# Space Strawberries Studio
 
 <img src="https://user-images.githubusercontent.com/57503158/129483641-904c0f61-43a4-483f-810a-eafce2dac294.png" alt="alt text" width="250" height="250">
 
